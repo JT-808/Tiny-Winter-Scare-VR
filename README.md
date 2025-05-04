@@ -2,9 +2,12 @@
 A small VR jump scare game for Meta Quest, developed as part of the VR/AR module at my university.
 -> Not finished!
 
-<img src="Screenshot1.png" width="300" />
-<img src="Screenshot2.png" width="300" />
-
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="Screenshot1.png" width="300" />
+</div>
+<div style="display: inline-block;">
+  <img src="Screenshot2.png" width="300" />
+</div>
 ## 🇬🇧 English
 
 ### 📋 Project Description
