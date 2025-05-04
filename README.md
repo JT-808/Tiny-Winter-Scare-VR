@@ -70,7 +70,7 @@ Das Projekt demonstriert \[→ Zweck beschreiben, z. B. grundlegende Interakti
    👉 [https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
 
 2. APK herunterladen
-   👉 [Siehe APK Download]https://github.com/JT-808/Tiny-Winter-Scare-VR/releases
+   👉 [Siehe APK Download](https://github.com/JT-808/Tiny-Winter-Scare-VR/releases)
    
 4. APK installieren:
 
