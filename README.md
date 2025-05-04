@@ -25,7 +25,7 @@ No Meta/Facebook account is required – only **Developer Mode** needs to be ena
 
 ### ▶️ Installation
 
-1. **Enable Developer Mode**  
+1. **Enable Developer Mode** 
    👉 [How to Enable Developer Mode](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
 
 2. **Download the APK**  
@@ -83,11 +83,3 @@ Ein Meta- oder Facebook-Konto ist **nicht erforderlich** – nur der **Entwickle
 
 4. **Spiel starten**  
    - Setze das Headset auf und gehe zu **Bibliothek** > **Unbekannte Quellen**, um das Spiel zu finden und zu starten.
-
----
-
-### ❗ Important Notes
-
-- **Developer Mode** is required to install and run apps from unknown sources.
-- After installation, the game will appear under **Library** > **Unknown Sources** in the Meta Quest interface.
-- **No Meta/Facebook account** is required to play.
