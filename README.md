@@ -44,7 +44,8 @@ No Meta/Facebook account is required – only **Developer Mode** needs to be ena
    - Put on your headset and navigate to **Library** > **Unknown Sources** to find and launch the game.
   ---
 
-  ⚠️ Disclaimer
+ ### ⚠️ Disclaimer
+  
 This VR experience contains sudden loud sounds and visual jump scares that may not be suitable for all players.
 Not recommended for individuals with heart conditions, epilepsy, or those sensitive to intense or frightening content.
 Use at your own risk. The developer is not responsible for any discomfort, fear responses, or health issues that may occur while playing.
@@ -91,7 +92,8 @@ Ein Meta- oder Facebook-Konto ist **nicht erforderlich** – nur der **Entwickle
    - Setze das Headset auf und gehe zu **Bibliothek** > **Unbekannte Quellen**, um das Spiel zu finden und zu starten.
 ---
   
-⚠️ Haftungsausschluss
+###⚠️ Haftungsausschluss
+
 Diese VR-Erfahrung enthält plötzliche laute Geräusche und visuelle Schockmomente (Jump Scares), die nicht für alle Spieler geeignet sind.
 Nicht empfohlen für Personen mit Herzproblemen, Epilepsie oder einer Empfindlichkeit gegenüber intensiven oder gruseligen Inhalten.
 Die Nutzung erfolgt auf eigene Verantwortung. Der Entwickler übernimmt keine Haftung für Unwohlsein, Angstreaktionen oder gesundheitliche Probleme, die beim Spielen auftreten könnten.
