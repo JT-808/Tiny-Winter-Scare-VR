@@ -31,7 +31,7 @@ The project demonstrates \[→ describe purpose, e.g., basic interaction, hand t
    👉 [https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
 
 2. Download the APK
-   👉 [See APK Download](#-apk-download)
+   👉 [See APK Download](#-apk-download)](https://github.com/JT-808/Tiny-Winter-Scare-VR/releases)
 
 3. Install APK:
 
@@ -70,9 +70,9 @@ Das Projekt demonstriert \[→ Zweck beschreiben, z. B. grundlegende Interakti
    👉 [https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
 
 2. APK herunterladen
-   👉 [Siehe APK Download](#-apk-download)
-
-3. APK installieren:
+   👉 [Siehe APK Download]https://github.com/JT-808/Tiny-Winter-Scare-VR/releases
+   
+4. APK installieren:
 
    ```bash
    adb install pfad/zur/deiner.apk
@@ -80,6 +80,6 @@ Das Projekt demonstriert \[→ Zweck beschreiben, z. B. grundlegende Interakti
 
    Oder mit **SideQuest**
 
-4. Headset aufsetzen und App im Hauptmenü starten
+5. Headset aufsetzen und App im Hauptmenü starten
 
 
