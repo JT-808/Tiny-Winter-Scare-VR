@@ -8,6 +8,8 @@ A small VR jump scare game for Meta Quest, developed as part of the VR/AR module
 <div style="display: inline-block;">
   <img src="Screenshot2.png" width="300" />
 </div>
+
+
 ## 🇬🇧 English
 
 ### 📋 Project Description
