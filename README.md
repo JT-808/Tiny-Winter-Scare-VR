@@ -1,6 +1,6 @@
 # Tiny-Winter-Scare-VR
-A small VR jump scare gamefor Meta Quest, developed as part of the VR/AR module at my university.
--> not finished!
+A small VR jump scare game for Meta Quest, developed as part of the VR/AR module at my university.
+-> Not finished!
 
 [🇬🇧 English](#english-version) | [🇩🇪 Deutsch](#deutsche-version)
 
@@ -14,8 +14,6 @@ This is a Unity VR project developed on **Linux** using the OpenXR plugin and th
 It runs on **all Meta Quest devices** (Quest 1, 2, Pro, and 3).
 No Meta/Facebook account is required – only **Developer Mode** needs to be enabled.
 
-The project demonstrates \[→ describe purpose, e.g., basic interaction, hand tracking, 3D audio].
-
 ---
 
 ### 🔧 Requirements
@@ -27,23 +25,26 @@ The project demonstrates \[→ describe purpose, e.g., basic interaction, hand t
 
 ### ▶️ Installation
 
-1. Enable Developer Mode
-   👉 [https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
+1. **Enable Developer Mode**  
+   👉 [How to Enable Developer Mode](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
 
-2. Download the APK
+2. **Download the APK**  
    👉 [See APK Download](https://github.com/JT-808/Tiny-Winter-Scare-VR/releases)
 
-3. Install APK:
+3. **Install the APK**  
+   - Use **ADB** or **SideQuest** to install the APK:
+     - **ADB Method:**
+       - Connect the Meta Quest to your computer and run the following command in the terminal:
+         ```bash
+         adb install path/to/your.apk
+         ```
+     - **SideQuest Method:**
+       - Alternatively, use **SideQuest** to install the APK via its user interface.
 
-   ```bash
-   adb install path/to/your.apk
-   ```
+4. **Launch the Game**  
+   - Put on your headset and navigate to **Library** > **Unknown Sources** to find and launch the game.
 
-   Or use **SideQuest**
-
-4. Put on the headset and launch the app from the main menu
-
-________________
+---
 
 ## 🇩🇪 Deutsche Version
 
@@ -52,8 +53,6 @@ ________________
 Dies ist ein Unity-VR-Projekt, das unter **Linux** mit dem OpenXR-Plugin und dem Meta XR SDK entwickelt wurde.
 Es läuft auf **allen Meta Quest Geräten** (Quest 1, 2, Pro und 3).
 Ein Meta- oder Facebook-Konto ist **nicht erforderlich** – nur der **Entwicklermodus** muss aktiviert sein.
-
-Das Projekt demonstriert \[→ Zweck beschreiben, z. B. grundlegende Interaktionen, Handtracking, 3D-Audio].
 
 ---
 
@@ -66,20 +65,29 @@ Das Projekt demonstriert \[→ Zweck beschreiben, z. B. grundlegende Interakti
 
 ### ▶️ Installation
 
-1. Entwicklermodus aktivieren
-   👉 [https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
+1. **Entwicklermodus aktivieren**  
+   👉 [Entwicklermodus aktivieren - Oculus Dokumentation](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
 
-2. APK herunterladen
+2. **APK herunterladen**  
    👉 [Siehe APK Download](https://github.com/JT-808/Tiny-Winter-Scare-VR/releases)
-   
-4. APK installieren:
 
-   ```bash
-   adb install pfad/zur/deiner.apk
-   ```
+3. **APK installieren**  
+   - Verwende **ADB** oder **SideQuest**, um die APK zu installieren:
+     - **ADB-Methode:**
+       - Verbinde die Meta Quest mit deinem Computer und führe den folgenden Befehl im Terminal aus:
+         ```bash
+         adb install pfad/zur/deiner.apk
+         ```
+     - **SideQuest-Methode:**
+       - Alternativ kannst du **SideQuest** verwenden, um die APK über die Benutzeroberfläche zu installieren.
 
-   Oder mit **SideQuest**
+4. **Spiel starten**  
+   - Setze das Headset auf und gehe zu **Bibliothek** > **Unbekannte Quellen**, um das Spiel zu finden und zu starten.
 
-5. Headset aufsetzen und App im Hauptmenü starten
+---
 
+### ❗ Important Notes
 
+- **Developer Mode** is required to install and run apps from unknown sources.
+- After installation, the game will appear under **Library** > **Unknown Sources** in the Meta Quest interface.
+- **No Meta/Facebook account** is required to play.
