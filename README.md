@@ -24,11 +24,9 @@ No Meta/Facebook account is required – only **Developer Mode** needs to be ena
 
 ### ▶️ Installation
 
-1. **Enable Developer Mode** 
-   👉 [How to Enable Developer Mode](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
+1. **Enable Developer Mode** 👉 [How to Enable Developer Mode](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
 
-2. **Download the APK**  
-   👉 [See APK Download](https://github.com/JT-808/Tiny-Winter-Scare-VR/releases)
+2. **Download the APK** 👉 [See APK Download](https://github.com/JT-808/Tiny-Winter-Scare-VR/releases)
 
 3. **Install the APK**  
    - Use **ADB** or **SideQuest** to install the APK:
@@ -72,11 +70,9 @@ Ein Meta- oder Facebook-Konto ist **nicht erforderlich** – nur der **Entwickle
 
 ### ▶️ Installation
 
-1. **Entwicklermodus aktivieren**  
-   👉 [Entwicklermodus aktivieren - Oculus Dokumentation](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
+1. **Entwicklermodus aktivieren** 👉 [Entwicklermodus aktivieren - Oculus Dokumentation](https://developer.oculus.com/documentation/quest/latest/concepts/mobile-device-setup/)
 
-2. **APK herunterladen**  
-   👉 [Siehe APK Download](https://github.com/JT-808/Tiny-Winter-Scare-VR/releases)
+2. **APK herunterladen** 👉 [Siehe APK Download](https://github.com/JT-808/Tiny-Winter-Scare-VR/releases)
 
 3. **APK installieren**  
    - Verwende **ADB** oder **SideQuest**, um die APK zu installieren:
