@@ -44,19 +44,7 @@ The project demonstrates \[→ describe purpose, e.g., basic interaction, hand t
 
 4. Put on the headset and launch the app from the main menu
 
----
-
-### 📦 APK Download
-
-👉 [Download the latest APK here](https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest)
-
----
-
-### 📜 License
-
-MIT License
-
----
+________________
 
 ## 🇩🇪 Deutsche Version
 
@@ -95,15 +83,4 @@ Das Projekt demonstriert \[→ Zweck beschreiben, z. B. grundlegende Interakti
 
 4. Headset aufsetzen und App im Hauptmenü starten
 
----
-
-### 📦 APK-Download
-
-👉 [Lade die neueste APK hier herunter](https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest)
-
----
-
-### 📜 Lizenz
-
-MIT-Lizenz
 
