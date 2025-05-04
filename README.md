@@ -1,6 +1,7 @@
 # Tiny-Winter-Scare-VR
 A small VR jump scare game for Meta Quest, developed as part of the VR/AR module at my university.
 -> Not finished!
+
 <img src="Screenshot1.png" width="300" />
 
 
